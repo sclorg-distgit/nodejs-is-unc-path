@@ -1,0 +1,1 @@
+# nodejs-is-unc-path
